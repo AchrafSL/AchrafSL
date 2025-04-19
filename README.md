@@ -13,10 +13,16 @@ I enjoy building applications that solve real-world problems, particularly in mo
 - **Technologies Used**: Java, Firebase Authentication, Firestore
 - **Link**: [View Project](https://github.com/AchrafSL/EdiMyDar)
 
+#### Project Preview
+Watch this video to see the app's functionalities in action:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mfIrvP7T0NM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ### 2. **Web Application for Digital Services**
 - **Description**: A web application designed to provide digital services. This project showcases my skills in web development and backend integration.
 - **Technologies Used**: HTML, CSS, JavaScript, Python(Flask)
 - **Link**: [View Project](https://github.com/AchrafSL/PFE-CODE)
+
 
 ---
 
