@@ -1,9 +1,44 @@
-- 👋 Hi, I’m @AchrafSL .
-- 👀 I’m interested in Big Data science .
-- 🌱 I’m currently learning CS .
+# Salimi Achraf 🚀
 
-<!---
-AchrafSL/AchrafSL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
- 📫 How to reach me :
---->
+## About Me
+I’m Salimi Achraf, a **Computer Science student** at Ibn Tofail University, Kénitra. I’m passionate about **Big Data Science** and exploring the potential of data-driven solutions.
+I enjoy building applications that solve real-world problems, particularly in mobile and web development. Feel free to explore my projects below!
+
+---
+
+## 🌟 Projects
+
+### 1. **CS50 Final Project: To-Do Android App**
+- **Description**: A fully functional To-Do app built using Java and Android Studio. The app allows users to manage tasks efficiently with features like adding, editing, marking tasks as complete, and syncing data in real-time.
+- **Technologies Used**: Java, Firebase Authentication, Firestore
+- **Link**: [View Project](https://github.com/AchrafSL/EdiMyDar)
+
+### 2. **Web Application for Digital Services**
+- **Description**: A web application designed to provide digital services. This project showcases my skills in web development and backend integration.
+- **Technologies Used**: HTML, CSS, JavaScript, Python(Flask)
+- **Link**: [View Project](https://github.com/AchrafSL/PFE-CODE)
+
+---
+
+## 📝 Education
+- **Bachelor's Degree in Mathematics and Computer Science**  
+  *Ibn Tofail University - Kénitra*  
+  Oct 2021 – feb 2025 
+
+---
+
+## 🏆 Certifications
+- **CS50x: Introduction to the Intellectual Enterprises of Computer Science and the Art of Programming**  
+  *Harvard University / edX*  
+  Issued: April 2025  
+  [View Credential](https://www.edx.org/certificates/bf4b6e46-fec1-492e-aaed-d75bb59c30b5)  
+
+---
+
+## 🤝 Connect with Me
+- **LinkedIn**: [Salimi Achraf](https://www.linkedin.com/in/salimi-achraf/)  
+- **Email**: achraf.salimi@euit.ac.ma
+
+---
+
+Thank you for visiting my GitHub profile! 😊
