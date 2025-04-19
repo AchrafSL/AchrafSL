@@ -43,7 +43,7 @@ Watch this video to see the app's functionalities in action:
 
 ## 🤝 Connect with Me
 - **LinkedIn**: [Salimi Achraf](https://www.linkedin.com/in/achraf-salimi-53b0b9229/)  
-- **Email**: achraf.salimi@euit.ac.ma
+- **Email**: achraf.salimi@uit.ac.ma
 
 ---
 
