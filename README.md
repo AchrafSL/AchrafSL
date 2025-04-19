@@ -14,8 +14,8 @@ I enjoy building applications that solve real-world problems, particularly in mo
 - **Link**: [View Project](https://github.com/AchrafSL/EdiMyDar)
 
 #### Project Preview
-Watch this video to see the app's functionalities in action:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mfIrvP7T0NM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Watch this video to see the app's functionalities in action:  
+[YouTube Video](https://www.youtube.com/watch?v=mfIrvP7T0NM)
 
 
 ### 2. **Web Application for Digital Services**
