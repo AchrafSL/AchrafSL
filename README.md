@@ -37,7 +37,7 @@ Watch this video to see the app's functionalities in action:
 - **CS50x: Introduction to the Intellectual Enterprises of Computer Science and the Art of Programming**  
   *Harvard University / edX*  
   Issued: April 2025  
-  [View Credential](https://www.edx.org/certificates/bf4b6e46-fec1-492e-aaed-d75bb59c30b5)  
+  [View Credential](https://certificates.cs50.io/bf4b6e46-fec1-492e-aaed-d75bb59c30b5.pdf?size=letter)  
 
 ---
 
