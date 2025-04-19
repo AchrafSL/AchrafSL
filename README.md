@@ -29,7 +29,7 @@ Watch this video to see the app's functionalities in action:
 ## 📝 Education
 - **Bachelor's Degree in Mathematics and Computer Science**  
   *Ibn Tofail University - Kénitra*  
-  Oct 2021 – feb 2025 
+  Oct 2021 – Feb 2025 
 
 ---
 
