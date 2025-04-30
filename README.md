@@ -10,7 +10,7 @@ I enjoy building applications that solve real-world problems, particularly in mo
 
 ### 1. **CS50 Final Project: To-Do Android App**
 - **Description**: A fully functional To-Do app built using Java and Android Studio. The app allows users to manage tasks efficiently with features like adding, editing, marking tasks as complete, and syncing data in real-time.
-- **Technologies Used**: Java, Firebase Authentication, Firestore
+- **Technologies Used**: Java, Firebase Authentication, Firestore, REST API
 - **Figma**: [View Figma](https://www.figma.com/design/aZiBavP0DtdQIxhugBFp9T/cs50-final-project---TODO--With-AI-?node-id=0-1&t=nmdMRzLt32V1tozP-1)
 - **Link**: [View Project](https://github.com/AchrafSL/EdiMyDar)
 
